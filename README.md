@@ -13,7 +13,7 @@
 
 
 ## About Me
-I'm an Electrical Engineering graduate passionate about **Data Science** and **Data Analyst**. Bangkit Academy named me their "Distinction Graduate" in Machine Learning. I juggle technologies like JavaScript, SQL, TensorFlow, Python, and more. 
+I'm an Electrical Engineering graduate passionate about **Data Science** and **Data Analyst**. I have experience in machine learning. Now, I'm learning about cloud computing such as GCP, data engineer and data science. As a lifelong learner, I am highly motivated to expand my skills and knowledge in this area. I thrive on sharing my expertise and helping others in their professional growth. 
 
 
 <h3 align="left">Connect with me:</h3>
