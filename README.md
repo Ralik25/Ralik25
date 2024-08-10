@@ -8,8 +8,8 @@
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ralik25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ralik25&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ralik45&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ralik45&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 
