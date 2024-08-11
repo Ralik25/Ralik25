@@ -24,8 +24,6 @@ I'm an Electrical Engineering graduate passionate about **Data Science** and **D
 
 ## Let's Connect!
 Feel free to reach out if you're up for a tech chat, want to collaborate, or just need a good laugh! 🚀✨
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/barra-malik-wibowo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barramalikwibowo" height="30" width="40" /></a>
 <a href="hhttps://www.instagram.com/barramalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddhoni_" height="30" width="40" /></a>
