@@ -16,12 +16,6 @@
 I'm an Electrical Engineering graduate passionate about **Data Science** and **Data Analyst**. I have experience in machine learning. Now, I'm learning about cloud computing such as GCP, data engineer and data science. As a lifelong learner, I am highly motivated to expand my skills and knowledge in this area. I thrive on sharing my expertise and helping others in their professional growth. 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/barra-malik-wibowo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barramalikwibowo" height="30" width="40" /></a>
-<a href="hhttps://www.instagram.com/barramalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddhoni_" height="30" width="40" /></a>
-</p>
-
 ## Educational Journey
 ### Degrees & Achievements:
 - 🎓 **Bachelor's of Engineering in Electrical Engineering** at Universitas Jenderal Soedirman (GPA: 3.63/4.00).
@@ -31,7 +25,11 @@ I'm an Electrical Engineering graduate passionate about **Data Science** and **D
 ## Let's Connect!
 Feel free to reach out if you're up for a tech chat, want to collaborate, or just need a good laugh! 🚀✨
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/barra-malik-wibowo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barramalikwibowo" height="30" width="40" /></a>
+<a href="hhttps://www.instagram.com/barramalik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddhoni_" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
