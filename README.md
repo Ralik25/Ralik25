@@ -13,7 +13,7 @@
 
 
 ## About Me
-I'm an Electrical Engineering graduate passionate about **Data Science** and **Data Analyst**. I have experience in machine learning. Now, I'm learning about cloud computing such as GCP, data engineer and data science. As a lifelong learner, I am highly motivated to expand my skills and knowledge in this area. I thrive on sharing my expertise and helping others in their professional growth. 
+Data enthusiast with a foundation in **machine learning** and **data analysis**. Proven ability to build machine learning models and create interactive dashboards. Experienced in processing large datasets and providing insights using **Python, SQL, TensorFlow, Power BI, and Tableau**. Strong in problem-solving and teamwork. 
 
 
 ## Educational Journey
